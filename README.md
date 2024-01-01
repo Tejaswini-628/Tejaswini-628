@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **ReactJS**
 
-💬 I'm willing to improve my skills **Open Source Projects**
+💬 I'm willing to improve my skills with **Open Source Projects**
 
 ⚡Reach out with **sowmyatejaswini3@gmail.com**
 
@@ -30,12 +30,6 @@
 </div>
 
 <br/>
-<hr/>
-
-<hr/>
-
-
-
 <hr/>
 
 <br/>
