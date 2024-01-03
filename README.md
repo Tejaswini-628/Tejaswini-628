@@ -11,8 +11,6 @@
 <div align="center">
  
  🔭 I’m currently learning **Full Stack**
- 
- 🌱 I’m currently learning **ReactJS**
 
 💬 I'm willing to improve my skills with **Open Source Projects**
 
