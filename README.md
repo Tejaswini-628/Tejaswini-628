@@ -12,7 +12,7 @@
  
  🔭 I’m currently learning **Full Stack**
 
-💬 I'm willing to improve my skills with **Open Source Projects**
+💬 I'm willing to improve my skills through **Open Source Projects**
 
 ⚡Reach out with **sowmyatejaswini3@gmail.com**
 
