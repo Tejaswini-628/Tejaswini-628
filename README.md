@@ -21,10 +21,10 @@
 <div>
 <h3 align="center">All Coding Profiles</h3>
 
-Hacker Rank **(https://www.hackerrank.com/profile/22B01A05E9)**
-Leet Code (https://leetcode.com/SowmyaTejaswini)
-Code Chef (https://www.codechef.com/users/tejaswini628)
-Code Forces (https://codeforces.com/profile/Tejaswini628)
+<p> Hacker Rank - **https://www.hackerrank.com/profile/22B01A05E9** </p><br>
+<p> Leet Code - **https://leetcode.com/SowmyaTejaswini** </p><br>
+<p> Code Chef - **https://www.codechef.com/users/tejaswini628** </p><br>
+<p> Code Forces - **https://codeforces.com/profile/Tejaswini628** </p>
     
 </div>
 
