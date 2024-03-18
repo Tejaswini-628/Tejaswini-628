@@ -9,6 +9,7 @@
 <br/>
 
 <div align="center">
+  #Sophomorr
  
  🔭 I’m currently learning **Full Stack**
 
