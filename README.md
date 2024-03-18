@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  #Sophomorr
+  <h3>Sophomore</h3>
  
  🔭 I’m currently learning **Full Stack**
 
